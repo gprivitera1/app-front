@@ -1,0 +1,22 @@
+/* Mejoras generales para inputs */
+.ant-input,
+.ant-select-selector,
+.ant-picker,
+.ant-input-number {
+  width: 100% !important;
+  padding: 10px 15px !important;
+  font-size: 16px !important;
+  border-radius: 8px !important;
+}
+
+/* Mejor contraste para etiquetas */
+.ant-form-item-label > label {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  color: #333 !important;
+}
+
+/* Espaciado mejorado */
+.ant-form-item {
+  margin-bottom: 24px !important;
+}
